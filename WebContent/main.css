@@ -1,0 +1,32 @@
+
+.header{
+	margin-top: -5px;
+	height: 80px;
+	background-color:#15c8e4;
+}
+.aa{
+	font-size: 50px;//字体大小
+	font-family:Microsoft Yahei;
+	color: white;
+	letter-spacing: 4px;//字间隔
+	margin-left: 30px;
+}
+.xuanze{
+	margin-left: 100px;
+}
+#aaa{
+	font-size: 20px;
+	
+}
+.test{
+	margin-top: -150px;
+	margin-left: 400px;
+	
+}
+.test1{
+	margin-top: -150px;
+	margin-left: 200px;
+}
+
+  
+
