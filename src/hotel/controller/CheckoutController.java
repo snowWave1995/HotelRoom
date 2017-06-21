@@ -17,6 +17,7 @@ import hotel.model.Room;
 /**
  * Servlet implementation class CheckoutController
  */
+//本项目均采用注解，没在web.xml中配置任何内容，Servlet 3.0支持WebServlet注解
 @WebServlet("/checkout")
 public class CheckoutController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
